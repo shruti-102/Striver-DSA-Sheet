@@ -1,3 +1,8 @@
+// sorting- time o(nlogn) space o(1)
+// set time o(n) space o(n)
+//hash map time o(n) space o(n)
+
+//NEGATIVE MARKING
 //time o(n)
 //space o(1)
 
