@@ -1,3 +1,10 @@
+// time o(nlogn)
+//space o(n)
+
+//we will sort the start and end pairs acc to end time as that will help us t maximize the number of meetings in a room
+//then we will compare the start time of ith meeting with the previous selected end time of meeting
+//if the time is greater ten we will increment the count as well as update the new meeting end
+
 class Solution
 {
     public:
